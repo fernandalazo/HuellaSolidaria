@@ -83,7 +83,7 @@ footer a:hover {
     color: #7b3f7b;
 }
 
-/* Franja inferior */
+/* Franja de mas abajoen gradiente */
 footer .p-3 {
     background: linear-gradient(90deg, #e6d7f2, #c8a2c8) !important;
     color: #4a2c4a;
